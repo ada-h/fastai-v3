@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/open?id=1JJ1erbAdCewrTzB_G7N66YATnmIf3FRY'
+export_file_url = 'https://drive.google.com/file/d/1bmY2EzrdxmCRSd2tYqE8OakbNe8ULcOV/view?usp=sharing'
 export_file_name = 'export.pkl'
 
 classes = ['goodroads', 'potholes']
